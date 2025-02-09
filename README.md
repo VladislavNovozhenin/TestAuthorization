@@ -18,11 +18,11 @@
 ## Как запустить
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/your-username/auth-app.git
+   git clone https://github.com/VladislavNovozhenin/TestAuthorization.git
 
 2. Установите зависимости:
-  cd auth-app
+  cd TestAuthorization
   npm install
 
 3. Запустите приложение:
-  npm start
+  npm run dev
